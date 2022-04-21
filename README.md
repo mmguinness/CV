@@ -1,84 +1,94 @@
 ## Marie Mc Guinness
 
-I am (aiming to be) a full stack Ruby developer. I can bring ten years of experience as an Architect, working across multiple project stages & scales, a meticulous attention to detail in everything I do, and a daily practice of problem solving and strategising. While evolving my new technical skills as a software developer I am eager to apply my experience working with briefs, interpreting what is required and following a design-process of testing and collaboration to get the required result.
+Junior Software Developer and recent graduate of Makers Academy coding bootcamp. After spending ten years working in the Architecture industry, I have embarked on a new path to develop my coding skills to build something new.
 
-My career in architecture has given me insight into a creative and impactful industry. These are some of the aspects I am looking for in software development, I am excited about a new role where I can be involved hands-on with the work, away from the volatility and slow pace of the construction industry. 
+The key skills I will bring to my new role include: creativity, problem solving, systems thinking, and experience in the design development process of bringing a project from beginning to end. I'm looking for a Junior Developer role in an agile team environment where I can develop my code craftsmanship and build simple, clean code with a company who are creative and impactful in their mission.
+
 
 ## Projects
 
------ TO BE UPDATED -----
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Get me out of here!           | An escape room game developed by a team of five, in two weeks | React, JS |
+| Bank Tech test | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Ruby              |
 
 ## Work Experience
 
 **Metropolitan Workshop** (Nov 2019 to July 2021)  
 _Senior Architect_
 
-- I worked with a large multidisciplinary design team on a masterplan for a 3ha site in North Dublin. The masterplan includes 400 residential units plus some commercial and community uses. I worked with Metropolitan Workshop to develop Phase 1, which includes 150 units for planning application. This was a complex brief with the additional challenges of using modular systems of construction and which required a sensitive approach to the existing community on the site.
-- QMS EMS Lead in Dublin office
-- BIM Lead - I worked closely with the BIM coordinator in-office to help create office wide standards and templates for Autodesk Revit
+- Worked with a multi-disciplinary design team on a masterplan for 400 homes, community space and new park in North Dublin city. 
+- Developed design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction) 
+
 
 **DTA Architects** (Aug 2017 to Oct 2019)  
 _Architect_
 
-- My role as Senior Architect involved leading the implementation of BIM in the office with the trial of a complex urban block project with Vectorworks 3D. I reached out to Vectorworks Support to help develop a system of files that would work for the large complex building to ensure we could extract the level of detail required. We produced a full set of Tender and Construction drawings, schedules & details from the 3D model. I was involved in all aspects of this project including design development, consultant coordination, and client and stakeholder meetings. 
+- Developed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. 
+- Drawings developed with Vectorworks 3D software, including details for bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
+
 
 **Satellite Architects** (Sep 2015 to Jul 2016)  
 _Architect_
 
-- Specialising in bespoke, design-led projects, Satellite Architects are committed to modern and sustainable design. 
-- In my role as Architect I assisted with the development of tender information, including the development of construction detailing, internal finishes, product specification, and assisted with planning applications.
+- Developed bespoke details for small-scale projects including a boutique hotel at River Cottage in Devon, and a Quakers meeting house in Hammersmith, London.
 
 
 **Haverstock Architects** (Sep 2012 to Aug 2015)  
 _Architectural Assistant_
 
 - Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives.
-- My role as Architectural Assistant involved working alongside the Project Architect for the duration of a project, including liaising with consultants, developing drawing packages, preparing regular client presentations, site inspections and planning & building control submissions.
+- I focused on specialist public-sector projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London.
 
 ## Skills
 
 #### Creative 
-- As an Architect, I have learned to be creative with my problem-solving and try to look at things from a new perspectives. From big urban scale ideas, to small brickwork details, I am always trying to bring creativity and joy to the details of a project.
+- Problem solving across all-scales - conceptual ideas down to small details
+- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week.  
 
-#### Excellent Communicator 
-- Communication was an integral part of my role as an Architect in Metropolitan Workshop, including presenting our work in public consultations. When Covid-19 prevented us from doing this in-person on the Cromcastle Court project in Dublin, after numerous iterations we provided a document, agreed with client and stakeholders, via website instead to help gain feedback from the local community. 
+
+#### Communication and Collaboration
+- Developing briefs and interpreting what is required
+- Collaboration with design team, consultants, clients and end-users
+- Presentation skills 
+```
+Example: Communication was an integral part of my role as an Architect in Metropolitan Workshop, including presenting our work in public consultations. When Covid-19 prevented us from doing this in-person on the Cromcastle Court project in Dublin, after numerous iterations we provided a document, agreed with client and stakeholders, via website instead to help gain feedback from the local community. 
 Link: https://consultation.dublincity.ie/north-central-area/cromcastle-court-and-the-old-coal-yard/
+```
 
-#### Collaboration
-Always comfortable finding my place in a team, whether that calls for putting my head down to get the work done, or offering leadership. The move to working remotely in March 2020 involved me taking on a greater role as main contact for the client, stakeholders in the local council, the extended design team, and the internal team in the office. I also took up a mentorship role within the office to ensure architectural graduates were receiving the same level of exposure and experience to the work happening in the office while being unable to observe the everyday activity in the office.
+#### Professional
+- Meticulous attention to detail
+- Experience in team-management 
+- Time-management and delivering to a deadline
 
-#### Design development and management
-I have four years experience in a senior role, working through projects, usually over a few years span, from sketch design to built form. This requires ongoing engagement with the client and design team, programming of work and review stages to keep the project on track. Design development is required throughout including research into products and construction techniques, testing the design and checking with building regulations on space standards, structural strategy, mechanical, electrical, acoustic and fire requirements.
-
-#### Attention to detail
-A key part of my role as Architect is reviewing and checking consultant information to ensure it is consistent with the design intention and coordinated with all other consultants' work. This work is demonstrated on the recent completion of a Staycity aparthotel by DTA Architects. I was responsible for the construction drawing packages, I contributed to the building specification documents and the coordination with the main building contractor and subcontractors on site.
-Link: https://vimeo.com/656555285
 
 #### Strive for efficiency
-I took on a QMS and EMS role for the Dublin branch of Metropolitan Workshop in 2019 to help bring the office up to the same level as London, ISO 9001 and ISO 14001 certification. This role involved creating, maintaining and reviewing quality and environmental management goals and documentation within the office. This happens through staff training, internal auditing and review of goals regularly. Following a two day external Audit in Feb 2021, we gained accreditation for the Dublin office.
-
+- QMS and EMS role in Metropolitan Workshop 
+```
+Example: I helped attain ISO 9001 and ISO 14001 certification for the Dublin office in 2021, to bring it up to the same level as the London branch. This role involves creating, maintaining and reviewing quality & environmental management goals and documentation, staff training, internal audits and review of goals regularly. 
+```
 
 ## Education
 
 #### Makers Academy (Jan 2022 to April 2022)
------ TO BE UPDATED -----
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Focus on:**
+- Self-learning
+- Language agnostic process for learning 
+- Software craftsmanship: SOLID, OPP, TDD, BDD
+- Group projects & Pair Programming
+- Agile methodologies and XP values
+- Curiosity and growth mindset
+
+**Software:**
+- Languages - Ruby and JavaScript
+- Testing frameworks - Rspec, Capybara, Jest, Cypress
+- Development frameworks - Sinatra, NodeJS, Express
+- Front end HTML, CSS and React Library
 
 #### University of Westminster (Sep 2014 to Sep 2016)
 
-- Postgradute Diploma in Professional Practice, required to use the title 'Architect'
-- Registered with Architects Registration Board(UK) from 2017 - 2021
-- Registered with the Royal Institute of the Architects in Ireland from 2018 to present (RIAI no. 18037) This requires 40 hours per year of strucutred and unstructured Continual Proffesional Development(CPD).
+- Postgradute Diploma in Professional Practice.
+- Required to use the title of Architect in the UK and Ireland.  
 
 #### Dublin Institute of Technology / College (Sep 2016 to Sep 2011)
 
@@ -88,13 +98,10 @@ I took on a QMS and EMS role for the Dublin branch of Metropolitan Workshop in 2
 
 #### Any other qualifications
 
-- Safe pass course (building site health and safety)
-- Over 5 years experience working in BIM, numerous projects completed through collaborative BIM work-flow
-- Volunteered with Open House London and RIBA Architecture in Schools Mentorship programme
+- Safe Pass Course (Building site health and safety)
+- Over 5 years experience working in Building Information Modelling(BIM), numerous projects completed through collaborative BIM work-flow
 
 ## Hobbies
 
-- Cooking & Baking, my biggest achievement so far is a wedding cake for a friend
-- Gardening, I am involved in local community garden
-- Building, architectural models, pieces of furniture and home renovations
-- Interested in sustainable construction materials and practices
+- Gardening, cooking and baking sourdough bread. I really enjoy trying new recipes, learning about new cuisines and incorporating this into my repertoire.
+- Architecture and building/making things.
