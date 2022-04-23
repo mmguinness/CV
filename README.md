@@ -63,8 +63,7 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
 _Architect (Aug 2017 to Oct 2019)_
 
 - My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
-- Check out the building on google maps: 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463.6865216253991!2d-6.251409757626564!3d53.34501006148241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670f7a3ab0e453%3A0x5684888822b5e4c7!2sStaycity%20Aparthotels%20-%20Mark%20Street%2C%20Dublin!5e0!3m2!1sen!2sie!4v1650746617421!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[Take a look at the building in google street view](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192)
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_<br>
