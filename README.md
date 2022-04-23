@@ -9,9 +9,9 @@ The expertise I developed as an architect that I hope to bring to my new role in
 
 I'm looking for a junior software development role in an agile team where I can further develop my skill set and build simple, clean code with a company who are passionate about what they do.
 
-**A bit about Makers Academy** _Student January 2022 Cohort_           
-12 week immersive full-stack engineering bootcamp            
-Strong focus on:
+## Tech Experience
+
+Makers Academy **12 week immersive full-stack engineering bootcamp** with a strong focus on: 
 - Self-learning 
 - Language agnostic process for learning 
 - Software craftsmanship: SOLID, OPP, TDD, BDD
@@ -97,4 +97,4 @@ Link: https://consultation.dublincity.ie/north-central-area/cromcastle-court-and
 - [Codewars](https://www.codewars.com/users/mmguinness) fanatic!
 - Podcasts including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
 - Sketching, reading, gardening, cooking and baking sourdough bread.<br>
-<img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="120" /><img src="./public/hobbies/Books.jpg" alt="Books" height="120"/><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="120" />
+<img src="./public/hobbies/Books.jpg" alt="Books" height="120"/><img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="120" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="120" />
