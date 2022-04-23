@@ -5,7 +5,7 @@
 
 Full-stack software developer and recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something completely different.
 
-The expertise I developed as an architect that bring to my new role include creativity, problem solving, systems thinking, and experience bringing complex projects from beginning to end.
+The expertise I developed as an architect that bring to my new role include creativity, problem solving, teamwork, collaboration, strong visual communication and experience bringing complex projects from beginning to end.
 
 I'm looking for a junior software development role in an agile team where I can further develop my skill set and build simple, clean code with a company who are passionate about what they do.
 
@@ -18,7 +18,7 @@ Makers Academy **12 week immersive full-stack engineering bootcamp** with a stro
 - Software craftsmanship: SOLID, OPP, TDD, BDD
 - Group projects & pair programming
 - Agile methodologies and XP values
-- Promotes curiosity and growth mindset
+- Curiosity and a growth mindset
 
 ## Projects
 
@@ -36,19 +36,19 @@ Selected projects to demonstrate what I have learnt:
 
 ## Education
 
-2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
-2021 | Learn Ruby - **Code Academy** (online) <br>
-2021 | Responsive Web Design - **freecodecamp** (online) <br>
-2021 | Jumpstart Labs' 100 minute Tutorial on Ruby - **Jumpstart Lab** (online) <br>
-2021 | Introduction to Coding with Ruby - **Udemy** (online) <br>
-2016 | Python for beginners - **Automate the boring stuff.com** (online) <br>
-2015 | Postgradute Diploma in Professional Practice - **University of Westminster**, London <br>
-2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
+2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) 
+2021 | Learn Ruby - **Code Academy** (online) 
+2021 | Responsive Web Design - **freecodecamp** (online) 
+2021 | Jumpstart Labs' 100 minute Tutorial on Ruby - **Jumpstart Lab** (online) 
+2021 | Introduction to Coding with Ruby - **Udemy** (online) 
+2016 | Python for beginners - **Automate the boring stuff.com** (online) 
+2015 | Postgradute Diploma in Professional Practice - **University of Westminster**, London 
+2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology 
 
 ## Experience
 
 **[Metropolitan Workshop](https://metwork.co.uk/work/)**  
-_Senior Architect (Nov 2019 to July 2021)_<br>
+_Senior Architect (Nov 2019 to July 2021)_
  
 I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. See the public consultation information for Cromcastle Court project in Dublin [here](https://consultation.dublincity.ie/north-central-area/cromcastle-court-and-the-old-coal-yard/).
 We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
@@ -73,14 +73,14 @@ My role involved designing bespoke details for small-scale projects including a 
 **[Haverstock Architects](http://haverstock.com/)**  
 _Architectural Assistant (Sep 2012 to Aug 2015)_
 
-Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out Moreland Primary School in google maps [here](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and info [here](http://haverstock.com/project/moreland-school/).
+Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out Moreland Primary School in google maps [here](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and more information [here](http://haverstock.com/project/moreland-school/).
 
 ## Skills
 
 #### Creative
 
 - Problem solving across all-scales - conceptual ideas down to small details
-- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week.
+- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning, for example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
 
 #### Communication and Collaboration
 
