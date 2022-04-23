@@ -36,14 +36,14 @@ Selected projects to demonstrate what I have learnt:
 
 ## Education
 
-2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) 
-2021 | Learn Ruby - **Code Academy** (online) 
-2021 | Responsive Web Design - **freecodecamp** (online) 
-2021 | Jumpstart Labs' 100 minute Tutorial on Ruby - **Jumpstart Lab** (online) 
-2021 | Introduction to Coding with Ruby - **Udemy** (online) 
-2016 | Python for beginners - **Automate the boring stuff.com** (online) 
-2015 | Postgradute Diploma in Professional Practice - **University of Westminster**, London 
-2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology 
+2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
+2021 | Learn Ruby - **Code Academy** (online) <br>
+2021 | Responsive Web Design - **freecodecamp** (online) <br>
+2021 | Jumpstart Labs' 100 minute Tutorial on Ruby - **Jumpstart Lab** (online) <br>
+2021 | Introduction to Coding with Ruby - **Udemy** (online) <br>
+2016 | Python for beginners - **Automate the boring stuff.com** (online) <br>
+2015 | Postgradute Diploma in Professional Practice - **University of Westminster**, London <br>
+2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
 
 ## Experience
 
@@ -80,7 +80,7 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 #### Creative
 
 - Problem solving across all-scales - conceptual ideas down to small details
-- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning, for example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
+- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
 
 #### Communication and Collaboration
 
@@ -100,4 +100,4 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 - [Codewars](https://www.codewars.com/users/mmguinness)
 - Podcasts including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
 - Sketching, reading, gardening, cooking and baking sourdough bread.<br>
-  <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="100" /><img src="./public/hobbies/book.jpg" alt="Books" height="80" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="100" />
+  <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
