@@ -1,5 +1,7 @@
 ## Marie Mc Guinness
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) |
+
 Junior software developer and recent graduate of Makers Academy coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something new.
 
 The expertise I developed as an architect that I hope to bring to my new role include creativity, problem solving, systems thinking, and experience bringing complex projects from beginning to end.
