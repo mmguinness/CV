@@ -1,9 +1,7 @@
-## Marie Mc Guinness
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Profile" style="background: url(./public/GitHub_Profile_MMG.jpg) 50% / cover; 
-            border-radius: 50%;
-            width:150px;" />
+ ## Marie Mc Guinness
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) |
+
+ | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) | <img src="./public/GitHub_Profile_MMG.jpg" alt="Profile" width="50" /> |
 
 Junior software developer and recent graduate of Makers Academy coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something new.
 
