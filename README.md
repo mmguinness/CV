@@ -58,12 +58,13 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
   alt="Cromcastle Section" 
   width="100%">
 </figure>
-<br>
 
 **[DTA Architects](https://dta.ie/)**  
 _Architect (Aug 2017 to Oct 2019)_
 
-My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
+- My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
+- Check out the building on google maps: 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463.6865216253991!2d-6.251409757626564!3d53.34501006148241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670f7a3ab0e453%3A0x5684888822b5e4c7!2sStaycity%20Aparthotels%20-%20Mark%20Street%2C%20Dublin!5e0!3m2!1sen!2sie!4v1650746617421!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_<br>
@@ -101,7 +102,7 @@ _Architectural Assistant (Sep 2012 to Aug 2015)_<br>
 
 ## Hobbies
 
-- [Codewars](https://www.codewars.com/users/mmguinness) fanatic!
+- [Codewars](https://www.codewars.com/users/mmguinness)
 - Podcasts including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
 - Sketching, reading, gardening, cooking and baking sourdough bread.<br>
   <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="100" /><img src="./public/hobbies/book.jpg" alt="Books" height="80" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="100" />
