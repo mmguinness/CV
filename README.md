@@ -51,13 +51,12 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
 
 - I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. 
 - We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
-<img src="./public/Section.png" alt="Cromcastle Section" height="100" />
+<img src="./public/Section.png" alt="Cromcastle Section" width="100%" />
 
 **[DTA Architects](https://dta.ie/)**   
 _Architect (Aug 2017 to Oct 2019)_<br>
 
 My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
-<img src="./public/MarkStreet.webp" alt="Cromcastle Section" height="120" /><img src="./public/MarkStreet.webp" alt="Cromcastle Section" height="120" />
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_<br>
