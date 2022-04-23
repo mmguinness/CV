@@ -54,8 +54,7 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
 <figure>
   <img src="./public/Section.png" 
   alt="Cromcastle Section" 
-  width="100%">
-  <figcaption>Rendered section through Cromcastle Court, Dublin</figcaption>
+  width="100%"><figcaption>Rendered section through Cromcastle Court, Dublin</figcaption>
 </figure>
 <br>
 
