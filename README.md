@@ -13,7 +13,7 @@ I'm looking for a junior software development role in an agile team where I can 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** ![RPS](RockPaperScissors.png) | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Ruby, Rspec, Capybara, Sinatra |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="RockPaperScissors.png" alt="RPS" width="40" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Ruby, Rspec, Capybara, Sinatra |
 | **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | An escape room game developed by a team of five, in two weeks | React, JavaScript, Node.js |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Ruby             |
 
