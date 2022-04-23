@@ -21,7 +21,9 @@ I'm looking for a junior software development role in an agile team where I can 
 
 ## Education
 
-#### Makers Academy (Jan 2022 to April 2022)
+#### Makers Academy
+_(Jan 2022 to April 2022)_ 
+
 **Strong focus on:**
 - Self-learning
 - Language agnostic process for learning 
@@ -37,11 +39,13 @@ I'm looking for a junior software development role in an agile team where I can 
 - Front end HTML, CSS and React Library
 
 
-#### University of Westminster (Sep 2014 to Sep 2016)
+#### University of Westminster 
+_(Sep 2014 to Sep 2016)_
 - Postgradute Diploma in Professional Practice.
 - Required to use the title of Architect in the UK and Ireland.  
 
-#### Dublin Institute of Technology / College (Sep 2016 to Sep 2011)
+#### Dublin Institute of Technology / College
+_(Sep 2016 to Sep 2011)_ 
 - Architecture
 - 2:1 BArch (Hons) Architecture
 - ERASMUS semester in Switzerland as part of Joint Master of Architecture in Bern University of Applied Sciences, Architecture, Wood and Civil Engineering
@@ -52,26 +56,26 @@ I'm looking for a junior software development role in an agile team where I can 
 
 ## Work Experience
 
-**Metropolitan Workshop** 
-_Senior Architect (Nov 2019 to July 2021) _
+**[Metropolitan Workshop](https://metwork.co.uk/work/)**
+_Senior Architect (Nov 2019 to July 2021)_
 
 - I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. 
 - We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
 
 
-**DTA Architects**   
+**[DTA Architects](https://dta.ie/)**   
 _Architect (Aug 2017 to Oct 2019)_
 
 - My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
 
 
-**Satellite Architects**  
+**[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_
 
 - My role involved designing bespoke details for small-scale projects including a boutique hotel at River Cottage in Devon, and a Quakers meeting house in Hammersmith, London.
 
 
-**Haverstock Architects**   
+**[Haverstock Architects](http://haverstock.com/)**
 _Architectural Assistant (Sep 2012 to Aug 2015)_
 
 - Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives.
