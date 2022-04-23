@@ -30,7 +30,7 @@ Selected projects to demonstrate what I have learnt:
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Two day solo project | Ruby, RSpec, Rubocop   |
 | **[Chitter](https://github.com/mmguinness/chitter-challenge)** | A Twitter clone with SQL database | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Chitter API](https://github.com/mmguinness/frontend-api-challenge)** | A small Twitter clone that will allow the users to post messages to a public stream. The backend API is build for you and hosted on Heroku, my task is to build a front-end single-page-app to interface with this API. | Two day solo project | JavaScript, Jest, HTML, CSS |
-| **[Makers BnB](https://github.com/mmguinness/makersbnb)** <img src="./public/Makers_logo.png" alt="Makers" width="100" />  | Air bnb clone. This web application that allows users to list spaces they have available, and to hire spaces for the night. | Two week group project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
+| **[Makers BnB](https://github.com/mmguinness/makersbnb)**  | Air bnb clone. This web application that allows users to list spaces they have available, and to hire spaces for the night. | Two week group project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 
 ## Education
 
@@ -51,7 +51,8 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
 
 - I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. 
 - We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
-<img src="./public/Section.png" alt="Cromcastle Section" width="100%" />
+<figure><img src="./public/Section.png" alt="Cromcastle Section" width="100%" /> <figcaption>Rendered Section through Cromcastle Court, Dublin</figcaption>
+</figure>
 
 **[DTA Architects](https://dta.ie/)**   
 _Architect (Aug 2017 to Oct 2019)_<br>
@@ -95,5 +96,5 @@ Link: https://consultation.dublincity.ie/north-central-area/cromcastle-court-and
 
 - [Codewars](https://www.codewars.com/users/mmguinness) fanatic!
 - Podcasts including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
-- Sketching on my ipad, reading, gardening, cooking and baking sourdough bread.<br>
+- Sketching, reading, gardening, cooking and baking sourdough bread.<br>
 <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="100" /><img src="./public/hobbies/book.jpg" alt="Books" height="80" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="100" />
