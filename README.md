@@ -1,10 +1,8 @@
 <h1>Marie Mc Guinness</h1>
-<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40"/></a>
-<a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="40" width="40"/></a></p>
+<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="15" width="15"/></a>
+<a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="15" width="15"/></a></p> | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) |
 
- | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) |
-
-Junior software developer and recent graduate of Makers Academy coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something new.
+Junior software developer and recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something new.
 
 The expertise I developed as an architect that I hope to bring to my new role include creativity, problem solving, systems thinking, and experience bringing complex projects from beginning to end.
 
@@ -15,14 +13,14 @@ I'm looking for a junior software development role in an agile team where I can 
 
 | Name                         | Description       |Timeframe          | Tech              |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="100" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
-| **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/gold_keyimg.png" alt="RPS" width="100" />  |  We created an interactive escape room game to explore our front-end capabilities. | Two week group project | React, JavaScript, Node.js |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="150" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
+| **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)** <img src="./public/Bowling_Classes.png" alt="Classes" width="150" /> | Count and sum the scores of a bowling game for one player. | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
+| **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/hourglass.png" alt="Timer" width="150" />  |  We created an interactive escape room game to explore our front-end capabilities. | Two week group project | React, JavaScript, Node.js |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Two day solo project | Ruby, RSpec, Rubocop   |
 
 ## Education
 
-#### Makers Academy
-_(Jan 2022 to April 2022)_ 
+#### Makers Academy _(Jan 2022 to April 2022)_ 
 
 **Strong focus on:**
 - Self-learning
@@ -44,8 +42,7 @@ _(Sep 2014 to Sep 2016)_
 - Postgradute Diploma in Professional Practice.
 - Required to use the title of Architect in the UK and Ireland.  
 
-#### Dublin Institute of Technology / College
-_(Sep 2016 to Sep 2011)_ 
+#### Dublin Institute of Technology / College _(Sep 2016 to Sep 2011)_ 
 - Architecture
 - 2:1 BArch (Hons) Architecture
 - ERASMUS semester in Switzerland as part of Joint Master of Architecture in Bern University of Applied Sciences, Architecture, Wood and Civil Engineering
@@ -54,9 +51,10 @@ _(Sep 2016 to Sep 2011)_
 - Safe Pass Course (Building site health and safety)
 - Over 5 years experience working in Building Information Modelling(BIM), numerous projects completed through collaborative BIM work-flow
 
+
 ## Work Experience
 
-**[Metropolitan Workshop](https://metwork.co.uk/work/)**
+**[Metropolitan Workshop](https://metwork.co.uk/work/)** 
 _Senior Architect (Nov 2019 to July 2021)_
 
 - I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. 
@@ -75,7 +73,7 @@ _Architect (Sep 2015 to Jul 2016)_
 - My role involved designing bespoke details for small-scale projects including a boutique hotel at River Cottage in Devon, and a Quakers meeting house in Hammersmith, London.
 
 
-**[Haverstock Architects](http://haverstock.com/)**
+**[Haverstock Architects](http://haverstock.com/)**  
 _Architectural Assistant (Sep 2012 to Aug 2015)_
 
 - Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives.
