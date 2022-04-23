@@ -1,4 +1,4 @@
-<h1>Marie Mc Guinness<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
+<h1>Marie Mc Guinness  <a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
 <a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a></p></h1>
 
 | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) |
@@ -9,21 +9,11 @@ The expertise I developed as an architect that I hope to bring to my new role in
 
 I'm looking for a junior software development role in an agile team where I can further develop my skill set and build simple, clean code with a company who are passionate about what they do.
 
-
-## Projects
-You can see my full progression throughout the Makers course on Github, but here are a few projects to demonstrate what I learnt:
-
-| Name                         | Description       |Timeframe          | Tech              |
-| ---------------------------- | ----------------- | ----------------- | ----------------- |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="150" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
-| **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)** | Count and sum the scores of a bowling game for one player. | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
-| **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/hourglass.png" alt="Timer" width="150" />  |  We created an interactive escape room game to explore our front-end capabilities. | Two week group project | React, JavaScript, Node.js |
-| **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Two day solo project | Ruby, RSpec, Rubocop   |
-
-## Education
-
-**Makers Academy** (Jan 2022 to April 2022) 
-Strong focus on:
+**A bit about Makers Academy**      
+_Student January 2022 Cohort_<br>             
+12 week immersive full-stack engineering bootcamp<br>        
+<br>
+Strong focus on:<br>
 - Self-learning
 - Language agnostic process for learning 
 - Software craftsmanship: SOLID, OPP, TDD, BDD
@@ -38,44 +28,58 @@ Software:
 - Front end HTML, CSS and React Library
 
 
-**University of Westminster** (Sep 2014 to Sep 2016)
-- Postgradute Diploma in Professional Practice.
-- Required to use the title of Architect in the UK and Ireland.  
+## Projects
+You can see my full progression throughout the Makers course on Github, but here are a few projects to demonstrate what I learnt:
 
-**Dublin School of Architecutre, Dublin Institute of Technology** (Sep 2016 to Sep 2011)
-- 2:1 BArch (Hons) Architecture
+| Name                         | Description       |Timeframe          | Tech              |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="150" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
+| **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)** | Count and sum the scores of a bowling game for one player. | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
+| **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/hourglass.png" alt="Timer" width="120" />  |  We created an interactive escape room game to explore our front-end capabilities. | Two week group project | React, JavaScript, Node.js |
+| **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Two day solo project | Ruby, RSpec, Rubocop   |
+| **[Chitter](https://github.com/mmguinness/chitter-challenge)** | A Twitter clone with SQL database | Two day solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
+| **[Chitter API](https://github.com/mmguinness/frontend-api-challenge)** | A small Twitter clone that will allow the users to post messages to a public stream. The backend API is build for you and hosted on Heroku, my task is to build a front-end single-page-app to interface with this API. | Two day solo project | JavaScript, Jest, HTML, CSS |
+| **[Makers BnB](https://github.com/mmguinness/makersbnb)** <img src="./public/Makers_logo.png" alt="Makers" width="120" />  | Air bnb clone. This web application that allows users to list spaces they have available, and to hire spaces for the night. | Two week group project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 
-**Any other qualifications**
-- Safe Pass Course (Building site health and safety)
-- Over 5 years experience working in Building Information Modelling(BIM), numerous projects completed through collaborative BIM work-flow
+## Education
+
+2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
+2021 | Learn Ruby - **Code Academy** (online) <br>
+2021 | Responsive Web Design - **freecodecamp** (online) <br>
+2021 | Jumpstart Labs' 100 minute Tutorial on Ruby - **Jumpstart Lab** (online) <br>
+2021 | Introduction to Coding with Ruby - **Udemy** (online) <br>
+2016 | Python for beginners - **Automate the boring stuff.com** (online) <br>
+2015 | Postgradute Diploma in Professional Practice - **University of Westminster**, London <br>
+2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture, DIT**, Dublin <br>
 
 
 ## Work Experience
 
 **[Metropolitan Workshop](https://metwork.co.uk/work/)**        
 _Senior Architect (Nov 2019 to July 2021)_
-
-- I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. 
-- We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
-
+<br>
+I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. <br>
+We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
+<br>
 
 **[DTA Architects](https://dta.ie/)**   
 _Architect (Aug 2017 to Oct 2019)_
-
-- My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
-
+<br>
+My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
+<br>
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_
-
-- My role involved designing bespoke details for small-scale projects including a boutique hotel at River Cottage in Devon, and a Quakers meeting house in Hammersmith, London.
-
+<br>
+My role involved designing bespoke details for small-scale projects including a boutique hotel at River Cottage in Devon, and a Quakers meeting house in Hammersmith, London.
+<br>
 
 **[Haverstock Architects](http://haverstock.com/)**  
 _Architectural Assistant (Sep 2012 to Aug 2015)_
-
-- Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives.
-- I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London.
+<br>
+Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives.<br>
+I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London.
+<br>
 
 ## Skills
 
@@ -102,3 +106,5 @@ Link: https://consultation.dublincity.ie/north-central-area/cromcastle-court-and
 
 - Gardening, cooking and baking sourdough bread. I really enjoy trying new recipes, learning about new cuisines and incorporating this into my repertoire.
 - Architecture and building/making things.
+- Podcasts including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
+- [Codewars](https://www.codewars.com/users/mmguinness) fanatic!
