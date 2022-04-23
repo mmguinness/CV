@@ -57,9 +57,10 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
   width="100%"><figcaption>Rendered section through Cromcastle Court, Dublin</figcaption>
 </figure>
 <br>
+<br>
 
 **[DTA Architects](https://dta.ie/)**   
-_Architect (Aug 2017 to Oct 2019)_<br>
+_Architect (Aug 2017 to Oct 2019)_
 
 My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements.
 
