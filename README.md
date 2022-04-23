@@ -58,6 +58,7 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
   <figcaption>Rendered section through Cromcastle Court, Dublin</figcaption>
 </figure>
 <br>
+
 **[DTA Architects](https://dta.ie/)**   
 _Architect (Aug 2017 to Oct 2019)_<br>
 
