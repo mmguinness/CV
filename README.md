@@ -74,7 +74,7 @@ My role involved designing bespoke details for small-scale projects including a 
 _Architectural Assistant (Sep 2012 to Aug 2015)_<br>
 
 - Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives.
-- I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London.
+- I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out Moreland Primary School [here](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192).
 
 ## Skills
 
