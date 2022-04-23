@@ -1,7 +1,8 @@
- ## Marie Mc Guinness
+<h1>Marie Mc Guinness</h1>
+<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40"/></a>
+<a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="40" width="40"/></a></p>
 
-
- | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) | <img src="./public/GitHub_Profile_MMG.jpg" alt="Profile" width="50" /> |
+ | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) |
 
 Junior software developer and recent graduate of Makers Academy coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something new.
 
@@ -12,11 +13,11 @@ I'm looking for a junior software development role in an agile team where I can 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="100" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Ruby, Rspec, Capybara, Sinatra |
-| **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/gold_keyimg.png" alt="RPS" width="100" />  | Two week group project. We created an interactive escape room game to explore our front-end capabilities. | React, JavaScript, Node.js |
-| **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Ruby             |
+| Name                         | Description       |Timeframe          | Tech              |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="100" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Solo project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS |
+| **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/gold_keyimg.png" alt="RPS" width="100" />  |  We created an interactive escape room game to explore our front-end capabilities. | Two week group project | React, JavaScript, Node.js |
+| **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Two day solo project | Ruby, RSpec, Rubocop   |
 
 ## Education
 
