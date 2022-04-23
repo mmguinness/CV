@@ -1,4 +1,7 @@
 ## Marie Mc Guinness
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Profile" style="background: url(./public/GitHub_Profile_MMG.jpg) 50% / cover; 
+            border-radius: 50%;
+            width:150px;" />
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/mcguinnessmarie/) |
 
@@ -13,8 +16,8 @@ I'm looking for a junior software development role in an agile team where I can 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="40" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Ruby, Rspec, Capybara, Sinatra |
-| **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | An escape room game developed by a team of five, in two weeks | React, JavaScript, Node.js |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="100" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend. | Ruby, Rspec, Capybara, Sinatra |
+| **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/gold_keyimg.png" alt="RPS" width="100" />  | Two week group project. We created an interactive escape room game to explore our front-end capabilities. | React, JavaScript, Node.js |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)** | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.  | Ruby             |
 
 ## Education
