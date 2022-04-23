@@ -51,7 +51,11 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
 
 - I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. 
 - We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
-<figure><img src="./public/Section.png" alt="Cromcastle Section" width="100%" /> <figcaption>Rendered Section through Cromcastle Court, Dublin</figcaption>
+<figure>
+  <img src="./public/Section.png" 
+  alt="Cromcastle Section" 
+  width="100%">
+  <figcaption>Rendered section through Cromcastle Court, Dublin</figcaption>
 </figure>
 
 **[DTA Architects](https://dta.ie/)**   
