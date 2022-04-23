@@ -50,10 +50,10 @@ Selected projects to demonstrate what I have learnt:
 **[Metropolitan Workshop](https://metwork.co.uk/work/)**  
 _Senior Architect (Nov 2019 to July 2021)_<br>
  
-- I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city.
-- We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). See the public consultation information for Cromcastle Court project in Dublin [here](https://consultation.dublincity.ie/north-central-area/cromcastle-court-and-the-old-coal-yard/).
+- I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. See the public consultation information for Cromcastle Court project in Dublin [here](https://consultation.dublincity.ie/north-central-area/cromcastle-court-and-the-old-coal-yard/).
+- We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction). 
 <figure>
-  <figcaption>Rendered section through Cromcastle Court, Dublin</figcaption>
+  <figcaption>Proposed section-cut through Cromcastle Court, Dublin</figcaption>
   <img src="./public/CromcastleSection.png" 
   alt="Cromcastle Section" 
   width="100%">
@@ -62,7 +62,7 @@ _Senior Architect (Nov 2019 to July 2021)_<br>
 **[DTA Architects](https://dta.ie/)**  
 _Architect (Aug 2017 to Oct 2019)_
 
-- My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements. Take a look at the building in google street view [here](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192).
+My focus was to develop detailed Tender and Construction documentation for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements. Take a look at the building in google street view [here](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192).
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_<br>
@@ -73,8 +73,7 @@ My role involved designing bespoke details for small-scale projects including a 
 **[Haverstock Architects](http://haverstock.com/)**  
 _Architectural Assistant (Sep 2012 to Aug 2015)_<br>
 
-- Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives.
-- I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out Moreland Primary School in google maps [here](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and info [here](http://haverstock.com/project/moreland-school/).
+Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out Moreland Primary School in google maps [here](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and info [here](http://haverstock.com/project/moreland-school/).
 
 ## Skills
 
