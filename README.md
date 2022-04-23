@@ -5,7 +5,7 @@
 
 Full-stack software developer and recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something completely different.
 
-The expertise I developed as an architect that bring to my new role include creativity, problem solving, teamwork, collaboration, strong visual communication and experience bringing complex projects from beginning to end.
+The expertise I developed as an architect, that I bring with me to my new role include creativity, problem solving, teamwork, collaboration, strong visual communication skills and experience bringing complex projects from beginning to end.
 
 I'm looking for a junior software development role in an agile team where I can further develop my skill set and build simple, clean code with a company who are passionate about what they do.
 
