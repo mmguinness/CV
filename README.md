@@ -30,11 +30,11 @@ Selected projects to demonstrate what I have learnt:
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
 | **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | We created an interactive escape room game to explore our front-end capabilities.                                                                                                                                       | Two week group project | React, JavaScript, Node.js, HTML, CSS                     |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)**                                                                       | A command line app to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.                                                                                                     | Solo project   | Ruby, RSpec, Rubocop                           |
-| **[Chitter API](https://github.com/mmguinness/frontend-api-challenge)**                                                                   | The backend API is provided for this Twitter clone, the task is to build a front-end single-page-app to interface with this API. | Two day solo project   | JavaScript, Jest, HTML, CSS                    |
+| **[Chitter API](https://github.com/mmguinness/frontend-api-challenge)**                                                                   | The backend API is provided for this Twitter clone, the task is to build a front-end single-page-app to interface with this API. | Weekend solo project   | JavaScript, Jest, HTML, CSS                    |
 | **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database                                                                                                                                                                                       | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Makers BnB](https://github.com/mmguinness/makersbnb)**                                                                                 | Air bnb clone. This web application that allows users to list spaces they have available, and to hire spaces for the night.                                                                                             | Two week group project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player.                                                                                                                                                              | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  | Rock Paper Scissors Game <img src="./public/RockPaperScissors.png" alt="RPS" width="100" />                                                                                                                                       | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  | Rock Paper Scissors Game     <img src="./public/RockPaperScissors.png" alt="RPS" width="100" />  | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
 
 ## Education
 
@@ -99,7 +99,9 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 
 ## Hobbies
 
-- [Codewars](https://www.codewars.com/users/mmguinness)
-- Podcasts including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
-- Sketching, reading, gardening, cooking and baking sourdough bread.<br>
+- Every morning (almost), I walk in Phoenix Park and listen to podcasts, including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
+- [Codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
+<figure>
+  <figcaption>Sketches of some books I have been reading lately</figcaption>
   <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
+</figure>
