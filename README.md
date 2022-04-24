@@ -34,7 +34,7 @@ Selected projects to demonstrate what I have learnt:
 | **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database                                                                                                                                                                                       | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Makers BnB](https://github.com/mmguinness/makersbnb)**                                                                                 | Air bnb clone. This web application that allows users to list spaces they have available, and to hire spaces for the night.                                                                                             | Two week group project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player.                                                                                                                                                              | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  | Rock Paper Scissors Game     <img src="./public/RockPaperScissors.png" alt="RPS" width="100" />  | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  | Rock Paper Scissors Game &nbsp;    <img src="./public/RockPaperScissors.png" alt="RPS" width="100" />  | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
 
 ## Education
 
@@ -101,6 +101,7 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 
 Every morning (almost), I walk in Phoenix Park and listen to podcasts, including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
 I enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
-Sketches of some books I have been reading lately
+Sketches of some books I have been reading lately<br>
+
  <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
 
