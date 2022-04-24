@@ -1,7 +1,7 @@
 <h1>Marie Mc Guinness &nbsp;<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
 <a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a></p></h1>
 
-| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
+[Tech](#tech) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
 
 Full-stack software developer and recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something completely different.
 
@@ -17,8 +17,10 @@ Makers Academy **12 week immersive full-stack engineering bootcamp** with a stro
 - Language agnostic process for learning
 - Software craftsmanship: SOLID, OPP, TDD, BDD
 - Group projects & pair programming
+- Coding reviews - live tech test of TDD process
 - Agile methodologies and XP values
 - Curiosity and a growth mindset
+
 
 ## Projects
 
@@ -26,7 +28,7 @@ Selected projects to demonstrate what I have learnt:
 
 | Name                                                                                                                                      | Description                                                                                                                                                                                                             | Timeframe              | Tech                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
-| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="150" /> | A simple web-based rock-paper-scissors game. My first web game made in a weekend.                                                                                                                                       | Two day solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
+| **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)** <img src="./public/RockPaperScissors.png" alt="RPS" width="150" /> | A simple web-based rock-paper-scissors game.                                                                                                                                        | Two day solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
 | **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player.                                                                                                                                                              | Two day solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS      |
 | **[Get me out of here!](https://github.com/mmguinness/escape-room)** <img src="./public/hourglass.png" alt="Timer" width="100" />         | We created an interactive escape room game to explore our front-end capabilities.                                                                                                                                       | Two week group project | React, JavaScript, Node.js                     |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)**                                                                        | A simple program to emulate a bank account. This is a practice project to demonstrate basic TDD and OOP principles.                                                                                                     | Two day solo project   | Ruby, RSpec, Rubocop                           |
@@ -37,11 +39,11 @@ Selected projects to demonstrate what I have learnt:
 ## Education
 
 2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
-2021 | Learn Ruby - **Code Academy** (online) <br>
-2021 | Responsive Web Design - **freecodecamp** (online) <br>
-2021 | Jumpstart Labs' 100 minute Tutorial on Ruby - **Jumpstart Lab** (online) <br>
-2021 | Introduction to Coding with Ruby - **Udemy** (online) <br>
-2016 | Python for beginners - **Automate the boring stuff.com** (online) <br>
+2021 | Learn Ruby - **[Code Academy](https://www.codecademy.com/learn/learn-ruby)** (online) <br>
+2021 | Responsive Web Design - **[freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design)** (online) <br>
+2021 | 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
+2021 | Introduction to Coding with Ruby - **[Udemy](https://www.udemy.com/course/newbie-to-ruby/)** (online) <br>
+2016 | Practical Programming for Total Beginners - **[Automate the boring stuff with Python](https://automatetheboringstuff.com/)** (online) <br>
 2015 | Postgradute Diploma in Professional Practice - **University of Westminster**, London <br>
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
 
