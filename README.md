@@ -99,9 +99,8 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 
 ## Hobbies
 
-- Every morning (almost), I walk in Phoenix Park and listen to podcasts, including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
-- [Codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
-<figure>
-  <figcaption>Sketches of some books I have been reading lately</figcaption>
-  <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
-</figure>
+Every morning (almost), I walk in Phoenix Park and listen to podcasts, including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer)
+I enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
+Sketches of some books I have been reading lately
+ <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
+
