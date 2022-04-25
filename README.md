@@ -3,6 +3,8 @@
 
 | [Tech](#tech) | [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Work History](#work) | [Hobbies](#hobbies) |
 
+## Full-Stack Software Engineer | Former Architect
+
 Enthusiastic junior developer with a **passion for building things**. I bring project planning, requirements analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working and having to effectively communicate and collaborate with others on **complex projects**, makes me an efficient and adaptable coder. Motivated to learn and excel at building simple, clean code into **software that delights**, with a company who are passionate about what they do.
 
 Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
@@ -26,7 +28,7 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 
 Online courses & resources:
 
-* Codewars kata in Ruby (5kyu) and JavaScript (7kyu), total Honor 400+
+* Codewars: Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
 * Learn Ruby - **[Code Academy](https://www.codecademy.com/learn/learn-ruby)** (online) <br>
 * Responsive Web Design - **[freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design)** (online) <br>
 * 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
