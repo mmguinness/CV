@@ -1,7 +1,7 @@
 <h1>Marie Mc Guinness &nbsp;<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
 <a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a></p></h1>
 
-| [Tech](#tech) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
+| [Tech](#tech) | [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Work History](#work) | [Hobbies](#hobbies) |
 
 Enthusiastic junior developer with a **passion for building things**. I bring project planning, requirements analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working and having to effectively communicate and collaborate with others on **complex projects**, makes me an efficient and adaptable coder. Motivated to learn and excel at building simple, clean code into **software that delights**, with a company who are passionate about what they do.
 
@@ -64,10 +64,10 @@ Selected projects to demonstrate what I have learnt:
 
 #### Meticulous attention to detail
 
-- Experience working in architecture and thinking at different-scales, from big concepts to tiny details has helped me to develop a robust and methodical approach to debugging. This allows me to confidently problem solve and debug while pair programing, and understand where and why the problems are occurring.
+- Experience working in architecture and thinking at different-scales, from big concepts to tiny details has helped me to develop a robust and methodical approach to debugging. This allows me to confidently problem solve and debug while pair programming, and understand where and why the problems are occurring.
 
 
-## Experience
+## Work History
 
 **[Metropolitan Workshop](https://metwork.co.uk/work/)**  
 _Senior Architect (Nov 2019 to July 2021)_
