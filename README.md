@@ -9,19 +9,29 @@ Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootca
 
 ## Tech Experience
 
-Makers Academy **16 week immersive full-stack engineering bootcamp** with a strong focus on:
-
-- Language agnostic process for learning
-- Software craftsmanship: SOLID, OPP, TDD, BDD
-- Group projects & pair programming
-- Coding reviews - live tech test of TDD process
-- Agile methodologies and XP values
-- Self-learning, curiosity and a growth mindset
-
 Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_ <br>
 Testing: _Rspec, Capybara, Jest, Cypress_<br>
 Development Frameworks: _Sinatra, NodeJS, Express_<br>
+Comfortable using Git and working with CLI
 
+Makers Academy **16 week immersive full-stack engineering bootcamp** with a strong focus on:
+
+- Language agnostic process for learning
+- Test Driven Development _(even for codewars kata)_
+- Software craftsmanship: SOLID, OPP, TDD, BDD
+- Group projects & pair programming
+- Coding reviews _(live tech test of TDD process)_
+- Agile methodologies and XP values
+- Promotes self-learning, curiosity and a growth mindset
+
+Online course & resources:
+
+* Codewars kata in Ruby (5kyu) and JavaScript (6kyu)
+* Learn Ruby - **[Code Academy](https://www.codecademy.com/learn/learn-ruby)** (online) <br>
+* Responsive Web Design - **[freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design)** (online) <br>
+* 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
+* Introduction to Coding with Ruby - **[Udemy](https://www.udemy.com/course/newbie-to-ruby/)** (online) <br>
+* Practical Programming for Total Beginners - **[Automate the boring stuff with Python](https://automatetheboringstuff.com/)** (online) <br>
 
 ## Projects
 
@@ -38,11 +48,7 @@ Selected projects to demonstrate what I have learnt:
 ## Education
 
 2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
-2021 | Learn Ruby - **[Code Academy](https://www.codecademy.com/learn/learn-ruby)** (online) <br>
-2021 | Responsive Web Design - **[freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design)** (online) <br>
-2021 | 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
-2021 | Introduction to Coding with Ruby - **[Udemy](https://www.udemy.com/course/newbie-to-ruby/)** (online) <br>
-2016 | Practical Programming for Total Beginners - **[Automate the boring stuff with Python](https://automatetheboringstuff.com/)** (online) <br>
+
 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London <br>
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
 
@@ -50,7 +56,7 @@ Selected projects to demonstrate what I have learnt:
 
 #### Creative problem solver
 
-- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
+- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge/blob/master/images/Object_Model_Diagram_02.png) weekend challenge.
 
 #### Strong verbal, visual and written communication
 
