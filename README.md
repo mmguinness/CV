@@ -18,9 +18,9 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 - Agile methodologies and XP values
 - Self-learning, curiosity and a growth mindset
 
-Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_
-Testing: _Rspec, Capybara, Jest, Cypress_
-Development _Frameworks: Sinatra, NodeJS, Express_
+Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_ <br>
+Testing: _Rspec, Capybara, Jest, Cypress_<br>
+Development _Frameworks: Sinatra, NodeJS, Express_<br>
 
 
 ## Projects
@@ -48,6 +48,25 @@ Selected projects to demonstrate what I have learnt:
 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London <br>
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
 
+## Skills
+
+#### Creative problem solver
+
+- Problem solving across all-scales, conceptual ideas down to small details
+- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
+
+#### Strong verbal, visual and written communication
+
+- Developing briefs with clients/end-users and interpreting what is required
+- Collaboration with design team, consultants, building-contractors, stakeholders and end-users
+- Presentation skills: visual communication of ideas and presenting this to others
+
+#### Meticulous attention to detail
+
+- Meticulous attention to detail - provide example
+- Strive for efficeincy in design solution and workflows
+
+
 ## Experience
 
 **[Metropolitan Workshop](https://metwork.co.uk/work/)**  
@@ -62,10 +81,10 @@ We developed the design and planning application documentation for the first pha
   width="100%">
 </figure>
 
-Responsibilities & Skills:
-_Consulted with clients to determine functional and spatial requirements of new development._
-_Coordinated with consultants and contractors to incorporate input into project designs._
-_Maintained quality control standards and procedures for accurate and precise measurements, illustrations and documentation._
+Responsibilities & Skills:<br>
+_Consulted with clients to determine functional and spatial requirements of new development._<br>
+_Coordinated with consultants and contractors to incorporate input into project designs._<br>
+_Maintained quality control standards and procedures for accurate and precise measurements, illustrations and documentation._<br>
 _Created and delivered project presentations to stakeholders._
 
 **[DTA Architects](https://dta.ie/)**  
@@ -73,10 +92,10 @@ _Architect (Aug 2017 to Oct 2019)_
 
 My focus was to develop detailed Tender and Construction information for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements. Take a look at the building in google street view [here](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192).
 
-Responsibilities & Skills:
-_Attended team meetings to resolve technical and project issues and review project schedules._
-_Devised overall strategy for documentation and and construction-level building information models (BIM)._
-_Reviewed technical drawings developed by suppliers._
+Responsibilities & Skills:<br>
+_Attended team meetings to resolve technical and project issues and review project schedules._<br>
+_Devised overall strategy for documentation and and construction-level building information models (BIM)._<br>
+_Reviewed technical drawings developed by suppliers._<br>
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_
@@ -89,26 +108,9 @@ _Architectural Assistant (Sep 2012 to Aug 2015)_
 
 Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out Moreland Primary School in google maps [here](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and more information [here](http://haverstock.com/project/moreland-school/).
 
-## Skills
-
-#### Creative problem solver
-
-- Problem solving across all-scales - conceptual ideas down to small details
-- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
-
-#### Strong verbal, visual and written communication
-
-- Developing briefs with clients/end-users and interpreting what is required
-- Collaboration with design team, consultants, building-contractors, stakeholders and end-users
-- Presentation skills: visual communication of ideas and presenting this to others
-
-#### Meticulous attention to detail
-
-- Meticulous attention to detail - provide example
-- Strive for efficeincy in design solution and workflows
 
 ## Hobbies
-Every morning (almost!) I walk in Phoenix Park and listen to podcasts about architecture, design, technology(& the overlap between them), culture and food. These include [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [99% invisible](https://99percentinvisible.org/). 
+Every morning (almost) I walk in Phoenix Park and listen to podcasts about architecture, design, technology(& the overlap between them), culture and food. These include [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [99% invisible](https://99percentinvisible.org/). 
 
 I also enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
 <br>
