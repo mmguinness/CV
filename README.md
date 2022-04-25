@@ -50,19 +50,15 @@ Selected projects to demonstrate what I have learnt:
 
 #### Creative problem solver
 
-- Problem solving across all-scales, conceptual ideas down to small details
 - I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
 
 #### Strong verbal, visual and written communication
 
-- Developing briefs with clients/end-users and interpreting what is required
-- Collaboration with design team, consultants, building-contractors, stakeholders and end-users
-- Presentation skills: visual communication of ideas and presenting this to others
+- My communicaiton and organisational skills really helped with our team projects. Preparing diagrams, mock-ups and giving order to tasks helped us to stay focused and split the work easily. This can be seen in [Makers BnB](https://github.com/mmguinness/makersbnb) group project.
 
 #### Meticulous attention to detail
 
-- Meticulous attention to detail - provide example
-- Strive for efficeincy in design solution and workflows
+- Experience thinking at different-scales, from big concepts ideas to small details has helped me develop a robust and methodical approach to debugging. This helps me to confidently problem solve and debug while pair programing.
 
 
 ## Experience
@@ -111,6 +107,6 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 Every morning (almost) I walk in Phoenix Park and listen to podcasts about architecture, design, technology and the overlap between them. These include [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [99% invisible](https://99percentinvisible.org/). 
 
 I also enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
-<br>
- <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
+
+<img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
 
