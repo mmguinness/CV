@@ -24,9 +24,9 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 - Agile methodologies and XP values
 - Promotes self-learning, curiosity and a growth mindset
 
-Online course & resources:
+Online courses & resources:
 
-* <a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a> Codewars kata in Ruby (5kyu) and JavaScript (6kyu)
+* Codewars kata in Ruby (5kyu) and JavaScript (7kyu), total Honor 400+
 * Learn Ruby - **[Code Academy](https://www.codecademy.com/learn/learn-ruby)** (online) <br>
 * Responsive Web Design - **[freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design)** (online) <br>
 * 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
@@ -41,14 +41,13 @@ Selected projects to demonstrate what I have learnt:
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
 | **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | An interactive escape room game to explore our front-end capabilities.                                                                                                                                       | Two week group project | React, JavaScript, Node.js, HTML, CSS                     |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)**                                                                       | A command line app to emulate a bank account.                                                                                                  | Solo project   | Ruby, RSpec, Rubocop                           |
-| **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database                                                                                                                                                                                       | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
+| **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database.                                                                                                                                                                                       | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player.                                                                                                                                                              | Weekend solo project   | Ruby, Rspec, Rubocop      |
 | **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  | <p align="center"><img src="./public/RockPaperScissors.png" alt="RPS" width="120"></p> | Weekend solo project  | Ruby, Rspec, Capybara, Sinatra, HTML, CSS  |
 
 ## Education
 
 2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
-
 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London <br>
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
 
@@ -60,7 +59,7 @@ Selected projects to demonstrate what I have learnt:
 
 #### Strong verbal, visual and written communication
 
-- My communicaiton and organisational skills really helped with our team projects. Preparing diagrams, mock-ups and giving order to tasks helped us to stay focused and split the work easily. This can be seen in [Makers BnB](https://github.com/mmguinness/makersbnb) group project.
+- My communicaiton and organisational skills really helped with our team projects. Preparing diagrams, mock-ups and giving order to tasks helped us to stay focused and split the work easily.
 
 #### Meticulous attention to detail
 
