@@ -1,5 +1,5 @@
 <h1>Marie Mc Guinness &nbsp;<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
-<a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a></p></h1>
+<a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a></h1>
 
 | [Tech](#tech) | [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Work History](#work) | [Hobbies](#hobbies) |
 
@@ -17,7 +17,7 @@ Comfortable using Git and working with CLI
 Makers Academy **16 week immersive full-stack engineering bootcamp** with a strong focus on:
 
 - Language agnostic process for learning
-- Test Driven Development _(even for codewars kata)_
+- Test Driven Development _(even for codewars kata!)_
 - Software craftsmanship: SOLID, OPP, TDD, BDD
 - Group projects & pair programming
 - Coding reviews _(live tech test of TDD process)_
@@ -26,7 +26,7 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 
 Online course & resources:
 
-* Codewars kata in Ruby (5kyu) and JavaScript (6kyu)
+* <a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a> Codewars kata in Ruby (5kyu) and JavaScript (6kyu)
 * Learn Ruby - **[Code Academy](https://www.codecademy.com/learn/learn-ruby)** (online) <br>
 * Responsive Web Design - **[freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design)** (online) <br>
 * 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
