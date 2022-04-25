@@ -31,9 +31,7 @@ Selected projects to demonstrate what I have learnt:
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
 | **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | An interactive escape room game to explore our front-end capabilities.                                                                                                                                       | Two week group project | React, JavaScript, Node.js, HTML, CSS                     |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)**                                                                       | A command line app to emulate a bank account.                                                                                                  | Solo project   | Ruby, RSpec, Rubocop                           |
-| **[Chitter API](https://github.com/mmguinness/frontend-api-challenge)**                                                                   | The backend API is provided for this Twitter clone, the task is to build a front-end single-page-app to interface with this API. | Weekend solo project   | JavaScript, Jest, HTML, CSS                    |
 | **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database                                                                                                                                                                                       | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
-| **[Makers BnB](https://github.com/mmguinness/makersbnb)**                                                                                 | Air bnb clone. This web application that allows users to list spaces they have available, and to hire spaces for the night.                                                                                             | Two week group project | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player.                                                                                                                                                              | Weekend solo project   | Ruby, Rspec, Rubocop      |
 | **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  | <p align="center"><img src="./public/RockPaperScissors.png" alt="RPS" width="120"></p> | Weekend solo project  | Ruby, Rspec, Capybara, Sinatra, HTML, CSS  |
 
@@ -81,21 +79,21 @@ We developed the design and planning application documentation for the first pha
   width="100%">
 </figure>
 
-Responsibilities & Skills:<br>
-_Consulted with clients to determine functional and spatial requirements of new development._<br>
-_Coordinated with consultants and contractors to incorporate input into project designs._<br>
-_Maintained quality control standards and procedures for accurate and precise measurements, illustrations and documentation._<br>
-_Created and delivered project presentations to stakeholders._
+Responsibilities & Skills:
+* _Consulted with clients to determine functional and spatial requirements of new development._
+* _Coordinated with consultants and contractors to incorporate input into project designs._
+* _Maintained quality control standards and procedures for accurate and precise measurements, illustrations and documentation._
+* _Created and delivered project presentations to stakeholders._
 
 **[DTA Architects](https://dta.ie/)**  
 _Architect (Aug 2017 to Oct 2019)_
 
 My focus was to develop detailed Tender and Construction information for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements. Take a look at the building in google street view [here](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192).
 
-Responsibilities & Skills:<br>
-_Attended team meetings to resolve technical and project issues and review project schedules._<br>
-_Devised overall strategy for documentation and and construction-level building information models (BIM)._<br>
-_Reviewed technical drawings developed by suppliers._<br>
+Responsibilities & Skills:
+* _Attended team meetings to resolve technical and project issues and review project schedules._
+* _Devised overall strategy for documentation and and construction-level building information models (BIM)._
+* _Reviewed technical drawings developed by suppliers._
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_
@@ -110,7 +108,7 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 
 
 ## Hobbies
-Every morning (almost) I walk in Phoenix Park and listen to podcasts about architecture, design, technology(& the overlap between them), culture and food. These include [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [99% invisible](https://99percentinvisible.org/). 
+Every morning (almost) I walk in Phoenix Park and listen to podcasts about architecture, design, technology and the overlap between them. These include [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [99% invisible](https://99percentinvisible.org/). 
 
 I also enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
 <br>
