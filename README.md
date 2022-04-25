@@ -20,7 +20,7 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 
 Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_ <br>
 Testing: _Rspec, Capybara, Jest, Cypress_<br>
-Development _Frameworks: Sinatra, NodeJS, Express_<br>
+Development Frameworks: _Sinatra, NodeJS, Express_<br>
 
 
 ## Projects
@@ -58,7 +58,7 @@ Selected projects to demonstrate what I have learnt:
 
 #### Meticulous attention to detail
 
-- Experience thinking at different-scales, from big concepts ideas to small details has helped me develop a robust and methodical approach to debugging. This helps me to confidently problem solve and debug while pair programing.
+- Experience working in architecture and thinking at different-scales, from big concepts to tiny details has helped me to develop a robust and methodical approach to debugging. This allows me to confidently problem solve and debug while pair programing, and understand where and why the problems are occurring.
 
 
 ## Experience
