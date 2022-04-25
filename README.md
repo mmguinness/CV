@@ -3,23 +3,24 @@
 
 | [Tech](#tech) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
 
-Full-stack software developer and recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. After spending ten years working in the construction industry, I have embarked on a new path to develop my coding skills and build something completely different.
+Enthusiastic junior developer with a **passion for building things**. I bring project planning, requirements analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working and having to effectively communicate and collaborate with others on **complex projects**, makes me an efficient and adaptable coder. Motivated to learn and excel at building simple, clean code into **software that delights**, with a company who are passionate about what they do.
 
-The expertise I developed as an architect, that I bring with me to my new role include creativity, problem solving, teamwork, collaboration, strong visual communication skills and experience bringing complex projects from beginning to end.
-
-I'm looking for a junior software development role in an agile team where I can further develop my skill set and build simple, clean code with a company who are passionate about what they do.
+Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
 
 ## Tech Experience
 
-Makers Academy **12 week immersive full-stack engineering bootcamp** with a strong focus on:
+Makers Academy **16 week immersive full-stack engineering bootcamp** with a strong focus on:
 
-- Self-learning
 - Language agnostic process for learning
 - Software craftsmanship: SOLID, OPP, TDD, BDD
 - Group projects & pair programming
 - Coding reviews - live tech test of TDD process
 - Agile methodologies and XP values
-- Curiosity and a growth mindset
+- Self-learning, curiosity and a growth mindset
+
+Languages: _Ruby, JavaScript, SQL, HTML, CSS & React Library_
+Testing: _Rspec, Capybara, Jest, Cypress_
+Development _Frameworks: Sinatra, NodeJS, Express_
 
 
 ## Projects
@@ -44,7 +45,7 @@ Selected projects to demonstrate what I have learnt:
 2021 | 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
 2021 | Introduction to Coding with Ruby - **[Udemy](https://www.udemy.com/course/newbie-to-ruby/)** (online) <br>
 2016 | Practical Programming for Total Beginners - **[Automate the boring stuff with Python](https://automatetheboringstuff.com/)** (online) <br>
-2015 | Postgradute Diploma in Professional Practice - **University of Westminster**, London <br>
+2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London <br>
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
 
 ## Experience
@@ -61,10 +62,21 @@ We developed the design and planning application documentation for the first pha
   width="100%">
 </figure>
 
+Responsibilities & Skills:
+_Consulted with clients to determine functional and spatial requirements of new development._
+_Coordinated with consultants and contractors to incorporate input into project designs._
+_Maintained quality control standards and procedures for accurate and precise measurements, illustrations and documentation._
+_Created and delivered project presentations to stakeholders._
+
 **[DTA Architects](https://dta.ie/)**  
 _Architect (Aug 2017 to Oct 2019)_
 
 My focus was to develop detailed Tender and Construction information for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements. Take a look at the building in google street view [here](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192).
+
+Responsibilities & Skills:
+_Attended team meetings to resolve technical and project issues and review project schedules._
+_Devised overall strategy for documentation and and construction-level building information models (BIM)._
+_Reviewed technical drawings developed by suppliers._
 
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_
@@ -79,28 +91,26 @@ Haverstock works closely with clients, creating designs to meet their needs, and
 
 ## Skills
 
-#### Creative
+#### Creative problem solver
 
 - Problem solving across all-scales - conceptual ideas down to small details
 - I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge) weekend challenge.
 
-#### Communication and Collaboration
+#### Strong verbal, visual and written communication
 
 - Developing briefs with clients/end-users and interpreting what is required
 - Collaboration with design team, consultants, building-contractors, stakeholders and end-users
-- Presentation skills, visual communication of ideas and presenting this to others
+- Presentation skills: visual communication of ideas and presenting this to others
 
-#### Professional
+#### Meticulous attention to detail
 
-- Meticulous attention to detail
-- Experience in team-management
-- Time-management and delivering to a deadline
+- Meticulous attention to detail - provide example
 - Strive for efficeincy in design solution and workflows
 
 ## Hobbies
+Every morning (almost!) I walk in Phoenix Park and listen to podcasts about architecture, design, technology(& the overlap between them), culture and food. These include [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer) and [99% invisible](https://99percentinvisible.org/). 
 
-Every morning (almost!) I walk in Phoenix Park and listen to podcasts, including [TRXL](https://www.trxl.co/), [Practice Distrupted](https://practiceofarchitecture.com/podcast/), [The Laravel Podcast](https://laravelpodcast.com/episodes/apis-with-jess-archer). I also enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
+I also enjoy [codewars](https://www.codewars.com/users/mmguinness), sketching, reading, gardening, cooking and baking sourdough bread.<br>
 <br>
-Some sketches and books I have been reading lately<br>
  <img src="./public/hobbies/Plant_2.jpg" alt="PlantOne" height="90" /><img src="./public/hobbies/book.jpg" alt="Books" height="90" /><img src="./public/hobbies/Plant_1.jpg" alt="PlantTwo" height="90" />
 
