@@ -1,7 +1,9 @@
-<h1>Marie Mc Guinness &nbsp;<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
+<img src="./public/Profile_circle.jpg" 
+  alt="Profile" 
+  width="40px"><h1>Marie Mc Guinness &nbsp;<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
 <a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a></h1>
 
-## Full-Stack Software Engineer | Former Architect
+## Software Engineer | Former Architect
 
 | [Tech](#tech) | [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Work History](#work) | [Hobbies](#hobbies) |
 
@@ -50,8 +52,8 @@ Selected projects to demonstrate what I have learnt:
 ## Education
 
 2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
-2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London <br>
-2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, Dublin Intitute of Technology <br>
+2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London, UK <br>
+2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, DIT Bolton Street, Dublin, Ireland <br>
 
 ## Skills
 
