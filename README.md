@@ -7,8 +7,7 @@
 
 <img src="./public/Profile_circle.jpg" 
   alt="Profile" 
-  width="80px">
-
+  width="120px">
 Enthusiastic junior developer with a **passion for building things**. I bring project planning, requirements analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working and having to effectively communicate and collaborate with others on **complex projects**, makes me an efficient and adaptable coder. Motivated to learn and excel at building simple, clean code into **software that delights**, with a company who are passionate about what they do.
 
 Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
