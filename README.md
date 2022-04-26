@@ -5,9 +5,6 @@
 
 | [Tech](#tech) | [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Work History](#work) | [Hobbies](#hobbies) |
 
-<img src="./public/Profile_circle.jpg" 
-  alt="Profile" 
-  width="120px">
 Enthusiastic junior developer with a **passion for building things**. I bring project planning, requirements analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working and having to effectively communicate and collaborate with others on **complex projects**, makes me an efficient and adaptable coder. Motivated to learn and excel at building simple, clean code into **software that delights**, with a company who are passionate about what they do.
 
 Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
@@ -57,6 +54,9 @@ Selected projects to demonstrate what I have learnt:
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, DIT Bolton Street, Dublin, Ireland <br>
 
 ## Skills
+
+<img src="./public/Diagram_Crom_01.jpg" alt="CromOne" height="120" /><img src="./Diagram_Crom_02.jpg" alt="CromTwo" height="90" />
+
 
 #### Creative problem solver
 
