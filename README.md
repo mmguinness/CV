@@ -55,8 +55,7 @@ Selected projects to demonstrate what I have learnt:
 
 ## Skills
 
-<img src="./public/Diagram_Crom_01.png" alt="CromOne" height="120" /><img src="./Diagram_Crom_02.png" alt="CromTwo" height="90" />
-
+&nbsp;<img src="./public/Diagram_Crom_01.png" alt="CromOne" height="120" />&nbsp;<img src="./Diagram_Crom_02.png" alt="CromTwo" height="200" />&nbsp;
 
 #### Creative problem solver
 
