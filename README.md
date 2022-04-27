@@ -28,12 +28,12 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 
 Online courses & resources:
 
-* Codewars: Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
-* Learn Ruby - **[Code Academy](https://www.codecademy.com/learn/learn-ruby)** (online) <br>
-* Responsive Web Design - **[freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design)** (online) <br>
-* 100 minute Tutorial on Ruby - **[Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)** (online) <br>
-* Introduction to Coding with Ruby - **[Udemy](https://www.udemy.com/course/newbie-to-ruby/)** (online) <br>
-* Practical Programming for Total Beginners - **[Automate the boring stuff with Python](https://automatetheboringstuff.com/)** (online) <br>
+* [Codewars](https://www.codewars.com/users/mmguinness): Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
+* Learn Ruby - [Code Academy](https://www.codecademy.com/learn/learn-ruby) (online) <br>
+* Responsive Web Design - [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design) (online) <br>
+* 100 minute Tutorial on Ruby - [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) (online) <br>
+* Introduction to Coding with Ruby - [Udemy](https://www.udemy.com/course/newbie-to-ruby/) (online) <br>
+* Practical Programming for Total Beginners - [Automate the boring stuff with Python](https://automatetheboringstuff.com/) (online) <br>
 
 ## Projects
 
