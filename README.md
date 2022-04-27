@@ -25,8 +25,9 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 - Coding reviews _(live tech test of TDD process)_
 - Agile methodologies and XP values
 - Promotes self-learning, curiosity and a growth mindset
+- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge/blob/master/images/Object_Model_Diagram_02.png) weekend challenge.
 
-Online courses & resources:
+Online courses & resources:_which I would recommend to any newbie coders_
 
 * [Codewars](https://www.codewars.com/users/mmguinness): Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
 * Learn Ruby - [Code Academy](https://www.codecademy.com/learn/learn-ruby) (online) <br>
@@ -52,21 +53,6 @@ Selected projects to demonstrate what I have learnt:
 2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London, UK <br>
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, DIT Bolton Street, Dublin, Ireland <br>
-
-## Skills
-
-#### Creative problem solver
-
-- I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge/blob/master/images/Object_Model_Diagram_02.png) weekend challenge.
-
-#### Strong verbal, visual and written communication
-
-- My communicaiton and organisational skills really helped with our team projects. Preparing diagrams, mock-ups and giving order to tasks helped us to stay focused and split the work easily.
-
-#### Meticulous attention to detail
-
-- Experience working in architecture and thinking at different-scales, from big concepts to tiny details has helped me to develop a robust and methodical approach to debugging. This allows me to confidently problem solve and debug while pair programming, and understand where and why the problems are occurring. 
-
 
 ## Work History
 
