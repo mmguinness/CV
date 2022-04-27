@@ -52,7 +52,7 @@ Selected projects to demonstrate what I have learnt:
 
 ## Education
 
-2022 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br>
+2022 | Full-Stack Engineering Bootcamp - **Makers Academy**, London, UK (remote) <br>
 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London, UK <br>
 2006 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, DIT Bolton Street, Dublin, Ireland <br>
 
