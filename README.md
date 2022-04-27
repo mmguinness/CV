@@ -27,7 +27,8 @@ Makers Academy **16 week immersive full-stack engineering bootcamp** with a stro
 - Promotes self-learning, curiosity and a growth mindset
 - I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge/blob/master/images/Object_Model_Diagram_02.png) weekend challenge.
 
-Online courses & resources:_which I would recommend to any newbie coders_
+Online courses & resources:
+_(which I would recommend to any newbie coders)_
 
 * [Codewars](https://www.codewars.com/users/mmguinness): Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
 * Learn Ruby - [Code Academy](https://www.codecademy.com/learn/learn-ruby) (online) <br>
