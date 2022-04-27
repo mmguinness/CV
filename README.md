@@ -55,8 +55,6 @@ Selected projects to demonstrate what I have learnt:
 
 ## Skills
 
-<p style="center"><img src="./public/Diagram_Crom_01.png" alt="CromOne" height="120" />&nbsp;<img src="./public/Diagram_Crom_02.png" alt="CromTwo" height="170" /></p>
-
 #### Creative problem solver
 
 - I am a visual thinker, one of my favourite parts of Makers has been discovering a new type of diagram almost every week. When stuck on a problem or short on time, I lean on diagramming and planning. For example in my [Chitter API](https://github.com/mmguinness/frontend-api-challenge/blob/master/images/Object_Model_Diagram_02.png) weekend challenge.
@@ -67,7 +65,7 @@ Selected projects to demonstrate what I have learnt:
 
 #### Meticulous attention to detail
 
-- Experience working in architecture and thinking at different-scales, from big concepts to tiny details has helped me to develop a robust and methodical approach to debugging. This allows me to confidently problem solve and debug while pair programming, and understand where and why the problems are occurring.
+- Experience working in architecture and thinking at different-scales, from big concepts to tiny details has helped me to develop a robust and methodical approach to debugging. This allows me to confidently problem solve and debug while pair programming, and understand where and why the problems are occurring. 
 
 
 ## Work History
