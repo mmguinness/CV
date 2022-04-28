@@ -1,7 +1,7 @@
 <h1>Marie Mc Guinness &nbsp;<a href="https://www.linkedin.com/in/mcguinnessmarie/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20"/></a>
 <a href="https://www.codewars.com/users/mmguinness" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="20" width="20"/></a></h1>
 
-## Junior Software Engineer | Former Architect
+## About me
 
 | [Tech](#tech) | [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Work History](#work) | [Interests](#interests) |
 
