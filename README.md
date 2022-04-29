@@ -66,7 +66,7 @@ _Senior Architect (Nov 2019 to July 2021)_
 * Maintained quality control standards and procedures for accurate and precise measurements, illustrations and documentation.
 * Created and delivered project presentations to stakeholders.
 
-_I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. See the public consultation information for Cromcastle Court project in Dublin [here](https://consultation.dublincity.ie/north-central-area/cromcastle-court-and-the-old-coal-yard/). We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction)._ 
+_I worked as part of a multi-disciplinary design team on a masterplan for 400 homes, a community space and park in North Dublin city. You can [view the public consultation information for Cromcastle Court project online](https://consultation.dublincity.ie/north-central-area/cromcastle-court-and-the-old-coal-yard/). We developed the design and planning application documentation for the first phase of 150 homes to be built using MMC (Modern Methods of Construction)._ 
 <figure>
   <figcaption>Proposed section-cut through Cromcastle Court, Dublin</figcaption>
   <img src="./public/CromcastleSection.png" 
@@ -89,13 +89,13 @@ _My focus was to develop detailed Tender and Construction information for a hote
 **[Satellite Architects](https://archello.com/project/friends-meeting-house)**  
 _Architect (Sep 2015 to Jul 2016)_
 
-My role involved designing bespoke details for small-scale projects including a boutique hotel at River Cottage in Devon, and a Quakers meeting house in Hammersmith, London.
+_My role involved designing bespoke details for small-scale projects including a boutique hotel at River Cottage in Devon, and a Quakers meeting house in Hammersmith, London._
 
 
 **[Haverstock Architects](http://haverstock.com/)**  
 _Architectural Assistant (Sep 2012 to Aug 2015)_
 
-Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out [Moreland Primary School in google maps](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and [more information here](http://haverstock.com/project/moreland-school/).
+_Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out [Moreland Primary School in google maps](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and [more information here](http://haverstock.com/project/moreland-school/)._
 
 
 ## Interests
