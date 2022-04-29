@@ -5,7 +5,7 @@
 
 | [Tech](#tech) | [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Work History](#work) | [Interests](#interests) |
 
-Enthusiastic junior developer with a **passion for making things**. I bring project planning, requirement analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working  as an architect, and having to effectively communicate and collaborate on **complex projects**, makes me an efficient and adaptable coder.
+Enthusiastic junior developer with a **passion for making things**. I bring project planning, requirement analysis, critical thinking and iterative work methods from my previous **training in architecture**. This combined with my experience working as an architect, and having to effectively communicate and collaborate on **complex projects**, makes me an adaptable coder.
 
 Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
 
