@@ -82,7 +82,7 @@ _Architect (Aug 2017 to Oct 2019)_
 * Devised overall strategy for documentation and and construction-level building information models (BIM).
 * Reviewed technical drawings developed by suppliers.
 
-_My focus was to develop detailed Tender and Construction information for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements. Take a look at the building in google street view [here](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192)._
+_My focus was to develop detailed Tender and Construction information for a hotel located in a complex urban block in Dublin inner city. The drawings were produced with Vectorworks 3D, including details for a bespoke facade with a mix of folded metal cladding, brickwork and precast concrete elements, [take a look at the finished building in google street view](https://www.google.com/maps/@53.3451004,-6.2513933,3a,75y,239.76h,108.2t/data=!3m6!1e1!3m4!1slEvi_KxnqIc07cSEGZGxPA!2e0!7i16384!8i8192)._
 
 
 
@@ -95,7 +95,7 @@ My role involved designing bespoke details for small-scale projects including a 
 **[Haverstock Architects](http://haverstock.com/)**  
 _Architectural Assistant (Sep 2012 to Aug 2015)_
 
-Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out Moreland Primary School in google maps [here](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and more information [here](http://haverstock.com/project/moreland-school/).
+Haverstock works closely with clients, creating designs to meet their needs, and inspiring buildings to enhance people’s lives. I assisted with the full scope of work on educational projects including a SEN School in Poole, and a Primary School & Childrens Centre in Islington, London. Check out [Moreland Primary School in google maps](https://www.google.com/maps/@51.5290407,-0.0990558,3a,75y,196.07h,92.2t/data=!3m6!1e1!3m4!1snmQ8PSZyzTRGWcILumS90Q!2e0!7i16384!8i8192) and [more information here](http://haverstock.com/project/moreland-school/).
 
 
 ## Interests
