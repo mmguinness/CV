@@ -32,11 +32,11 @@ Online courses & resources:<br>
 _(which I found helpful and would recommend to anyone starting to learn to code)_
 
 * [Codewars](https://www.codewars.com/users/mmguinness): Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
-* Learn Ruby - [Code Academy](https://www.codecademy.com/learn/learn-ruby) (online) <br>
-* Responsive Web Design - [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design) (online) <br>
-* 100 minute Tutorial on Ruby - [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) (online) <br>
-* Introduction to Coding with Ruby - [Udemy](https://www.udemy.com/course/newbie-to-ruby/) (online) <br>
-* Practical Programming for Total Beginners - [Automate the boring stuff with Python](https://automatetheboringstuff.com/) (online) <br>
+* Learn Ruby - [Code Academy](https://www.codecademy.com/learn/learn-ruby) <br>
+* Responsive Web Design - [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design) <br>
+* 100 minute Tutorial on Ruby - [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) <br>
+* Introduction to Coding with Ruby - [Udemy](https://www.udemy.com/course/newbie-to-ruby/) <br>
+* Practical Programming for Total Beginners - [Automate the boring stuff with Python](https://automatetheboringstuff.com/) <br>
 
 ## Projects
 
@@ -44,7 +44,7 @@ Selected projects to demonstrate what I have learnt:
 
 | Name                                                                                                                                           | Description                                                                                                                                                                                                             | Timeframe              | Tech                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
-| **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | An interactive escape room game to explore our front-end capabilities. [Play _get me out of here!_](https://get-me-out-of-here-game.herokuapp.com/).                                                                                                                                       | Two week group project | React, JavaScript, Node, HTML, CSS, Heroku                     |
+| **[Get me out of here!](https://github.com/mmguinness/escape-room)**        | An interactive escape room game to explore our front-end capabilities. Play _[get me out of here!_](https://get-me-out-of-here-game.herokuapp.com/).                                                                                                                                       | Two week group project | React, JavaScript, Node, HTML, CSS, Heroku                     |
 | **[Bank Tech test](https://github.com/mmguinness/Bank_tech_test)**                                                                       | A command line app to emulate a bank account.                                                                                                  | Solo project   | Ruby, RSpec, Rubocop                           |
 | **[Chitter](https://github.com/mmguinness/chitter-challenge)**                                                                            | A Twitter clone with SQL database.                                                                                                                                                                                       | Weekend solo project   | Ruby, Rspec, Capybara, Sinatra, HTML, CSS, SQL |
 | **[Bowling Scorecard](https://github.com/mmguinness/bowling-challenge-ruby)**                                                             | Count and sum the scores of a bowling game for one player.                                                                                                                                                              | Weekend solo project   | Ruby, Rspec, Rubocop      |
