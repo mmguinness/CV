@@ -30,7 +30,7 @@ I am a visual thinker, one of my favourite parts of Makers has been discovering 
 
 Online courses & resources:<br>
 _(which I found helpful and would recommend to anyone starting to learn to code)_
-* [Codewars](https://www.codewars.com/users/mmguinness): Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
+* [Codewars](https://www.codewars.com/users/mmguinness) - Total Honor 400+, Ruby (5kyu) and JavaScript (7kyu)
 * Learn Ruby - [Code Academy](https://www.codecademy.com/learn/learn-ruby) <br>
 * Responsive Web Design - [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design) <br>
 * 100 minute Tutorial on Ruby - [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) <br>
