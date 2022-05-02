@@ -3,7 +3,7 @@
 
 | [Tech](#tech) | [Education](#education) | [Work History](#work) | [Interests](#interests) |
 
-I’m a former architect who loves building things with code.
+I’m a former architect who loves building things with code. <br>
 Recent graduate of [Makers Academy](https://makers.tech/about-us/) coding bootcamp. 
 
 ## Tech Experience
@@ -45,10 +45,10 @@ Student projects from Makers Academy to demonstrate what I have learnt:
 | **[Rock Paper Scissors](https://github.com/mmguinness/rps-challenge)**  | <p align="center"><img src="./public/RockPaperScissors.png" alt="RPS" width="120"></p> | Weekend solo project  | Ruby, Sinatra, Capybara, Rspec, HTML, Bulma  |
 
 ## Education
-|------| ------------------------------------------------------|---------------------|
-| 2022 | Full-Stack Engineering Bootcamp - **Makers Academy** | London, UK (Remote) |
-| 2014 - 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster** | London, UK |
-| 2006 - 2011 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture** | DIT Bolton Street, Dublin, Ireland |
+
+2022 | Full-Stack Engineering Bootcamp - **Makers Academy**, London, UK (Remote)
+2014 - 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London, UK 
+2006 - 2011 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, DIT Bolton Street, Dublin, Ireland 
 
 ## Work History
 
