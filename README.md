@@ -46,9 +46,9 @@ Student projects from Makers Academy to demonstrate what I have learnt:
 
 ## Education
 
-2022 | Full-Stack Engineering Bootcamp - **Makers Academy**, London, UK (Remote)
-2014 - 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London, UK 
-2006 - 2011 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, DIT Bolton Street, Dublin, Ireland 
+2022 | Full-Stack Engineering Bootcamp - **Makers Academy**, London, UK (Remote) <br>
+2014 - 2015 | Postgraduate Diploma in Professional Practice - **University of Westminster**, London, UK <br>
+2006 - 2011 | 2:1 BArch (Hons) Architecture - **Dublin School of Architecture**, DIT Bolton Street, Dublin, Ireland <br>
 
 ## Work History
 
